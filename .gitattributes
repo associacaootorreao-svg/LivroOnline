@@ -1,0 +1,5 @@
+# Binary files
+*.pdf binary
+
+# Ensure line endings are handled correctly
+*.md text eol=lf
