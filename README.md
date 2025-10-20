@@ -8,13 +8,6 @@ O livro está publicado online e pode ser acessado através do GitHub Pages:
 
 **[Clique aqui para ler o livro online](https://associacaootorreao-svg.github.io/LivroOnline/)**
 
-## 📥 Download
-
-Você pode baixar o PDF diretamente:
-
-- [Sete Filhos, Mil Histórias - Versão 3](Sete%20Filhos,%20Mil%20Histórias_%20Uma%20Vida%20Guiada%20por%20Deus%20-%20BR%20(1)%20(1)%20(3).pdf)
-- [Sete Filhos, Mil Histórias - Versão 1](Sete%20Filhos,%20Mil%20Histórias_%20Uma%20Vida%20Guiada%20por%20Deus%20-%20BR%20(1)%20(1).pdf)
-
 ## 📚 Sobre o Livro
 
 Este livro narra uma história inspiradora de fé, família e a jornada de uma vida guiada por Deus.
